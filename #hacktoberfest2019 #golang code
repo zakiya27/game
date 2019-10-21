@@ -1,0 +1,7 @@
+First code we write in golang:
+
+package main
+import "fmt"
+func main() {
+    fmt.Println("hello world")
+}
